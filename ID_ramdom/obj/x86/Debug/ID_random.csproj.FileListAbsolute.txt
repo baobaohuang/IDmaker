@@ -1,0 +1,6 @@
+C:\Users\frankhuang\Desktop\test\IDMaker\ID_ramdom\ID_ramdom\bin\Debug\ID_random.exe
+C:\Users\frankhuang\Desktop\test\IDMaker\ID_ramdom\ID_ramdom\bin\Debug\ID_random.pdb
+C:\Users\frankhuang\Desktop\test\IDMaker\ID_ramdom\ID_ramdom\obj\x86\Debug\ID_random.exe
+C:\Users\frankhuang\Desktop\test\IDMaker\ID_ramdom\ID_ramdom\obj\x86\Debug\ID_random.pdb
+C:\Users\frankhuang\Desktop\test\IDMaker\ID_random\ID_ramdom\obj\x86\Debug\ID_random.exe
+C:\Users\frankhuang\Desktop\test\IDMaker\ID_random\ID_ramdom\obj\x86\Debug\ID_random.pdb
