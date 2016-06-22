@@ -117,6 +117,12 @@ namespace ID_ramdom
             output += final_input[10].ToString();
             return output;
         }
+        
+        static void test()
+        {
+            
+        }
+        }
     }
     
 }
